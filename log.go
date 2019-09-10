@@ -1,4 +1,4 @@
-package smartsearchlog
+package log
 
 import "fmt"
 
